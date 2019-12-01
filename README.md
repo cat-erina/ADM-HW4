@@ -13,4 +13,7 @@ The homework is made of three main parts, regarding:
 * k-means and clustering
 
 ### Repository Structure
-In this repository you will find a file called main.ipynb that contains the code and expalnation for the exercises above mentioned
+In this repository you will find:
+* a file called main.ipynb that contains the code and expalnation for all the exercises above mentioned
+* a file called sorting_lib.py containing the functions for the second exercise 
+* a file called clustering_lib.py containing the functions for the third exercise 
